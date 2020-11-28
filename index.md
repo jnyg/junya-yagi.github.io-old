@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Junya Yagi
 
-You can use the [editor on GitHub](https://github.com/junya-yagi/junya-yagi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a theoretical physicist at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en), [Tsinghu University](https://www.tsinghua.edu.cn/en/) in Beijing.
 
 ### Markdown
 
