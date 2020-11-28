@@ -1,4 +1,4 @@
-## Junya Yagi
+# Junya Yagi
 
 I'm a theoretical physicist at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en), [Tsinghu University](https://www.tsinghua.edu.cn/en/) in Beijing.
 
